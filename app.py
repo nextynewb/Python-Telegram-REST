@@ -79,4 +79,4 @@ Example usage:
 """
 bot = TelegramBot(token=os.getenv('TELEGRAM_BOT_TOKEN'))
 bot.send_message('YOUR_CHAT_ID', 'YOUR_MESSAGE')
-bot.get_chat_id(os.getenv('TELEGRAM_USERNAME'))
+bot.get_chat_id('YOUR_USERNAME') # @yadda_yadda = yadda_yadda etc

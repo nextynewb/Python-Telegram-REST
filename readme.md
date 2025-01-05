@@ -27,3 +27,5 @@ Before running the bot, ensure you have the following:
 
 ---
 
+Okay - that's it. I used this most of the time to send alerts for my memecoins, and trading strategy. Alternatively, we can use Telebot and polling approach to receive real time message with commands.
+
